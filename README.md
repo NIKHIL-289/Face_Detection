@@ -1,4 +1,4 @@
-***Face Detection & Intruder Notification System***
+#Face Detection & Intruder Notification System
 
 Overview
 This project is a Face Detection System that identifies faces in images or live video feeds and sends real-time notifications if an intruder is detected. The system uses Pushbullet to send alerts to your mobile or desktop device, along with the intruder's picture for verification.
